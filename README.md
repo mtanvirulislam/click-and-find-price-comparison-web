@@ -1,2 +1,2 @@
-# click-and-find-price-comparison-web
+# Click & Find price comparison web
 Electronics products price comparison web
